@@ -1,0 +1,68 @@
+body {
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Jim Nightshade', cursive;
+    margin: 0;
+    text-shadow: -4px 0 #000;
+    background-color: #000;
+    text-align: center;
+}
+
+.hero {
+    background-image: url("images/space1.webp");
+    background-size: cover;
+    padding: 10px 0 300px 0%;
+}
+
+#text {
+    padding-top: 80px;
+}
+
+#text3 {
+    padding-top: 30px;
+}
+
+.destructions {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.imgdestruct1 {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.greaper {
+    border-radius: 2%;
+    border-bottom: 6px solid #fff;
+    border-left: 2px solid #fff;
+    border-right: 6px solid #fff;
+    display: flex;
+    width: 500px;
+    text-align: center;
+    margin: 5px auto 10px auto;
+    justify-content: space-around;
+    padding: 20px;
+    background-image: url("images/fire2.webp");
+    background-size: cover;
+}
+
+.reaper {
+    width: 250px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
